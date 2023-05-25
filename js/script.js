@@ -8,6 +8,10 @@ console.log('JS OK');
 const passwordPlaceholder = document.getElementById('personal-password');
 console.log(passwordPlaceholder);
 
+// CREAZIONE NUMERO 21
+
+const passwordNumber = 21;
+
 // CHIEDIAMO IL NOME ALL'UTENTE, SALVO E VERIFICO 
 
 const userName = prompt('come ti chiami?', 'Gioele');
@@ -22,3 +26,5 @@ console.log(userLastname);
 
 const userFavouritecolor = prompt('Qual\'è il tuo colore preferito?', 'Rosso');
 console.log(userFavouritecolor);
+
+// 
