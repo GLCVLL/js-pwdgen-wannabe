@@ -7,3 +7,13 @@ console.log('JS OK');
 
 const passwordPlaceholder = document.getElementById('personal-password');
 console.log(passwordPlaceholder);
+
+// CHIEDIAMO IL NOME ALL'UTENTE, SALVO E VERIFICO 
+
+const userName = prompt('come ti chiami?', 'Gioele');
+console.log(userName);
+
+// CHIEDIAMO IL COGNOME ALL'UTENTE, SALVO E VERIFICO 
+
+const userLastname = prompt('Qual\'è il tuo cognome?', 'Iacovella');
+console.log(userLastname);
