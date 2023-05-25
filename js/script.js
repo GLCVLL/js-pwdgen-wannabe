@@ -17,3 +17,8 @@ console.log(userName);
 
 const userLastname = prompt('Qual\'è il tuo cognome?', 'Iacovella');
 console.log(userLastname);
+
+// CHIEDIAMO IL COLORE PREFERITO ALL'UTENTE, SALVO E VERIFICO 
+
+const userFavouritecolor = prompt('Qual\'è il tuo colore preferito?', 'Rosso');
+console.log(userFavouritecolor);
